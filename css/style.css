@@ -1,0 +1,10 @@
+form{
+    opacity: 0;
+    visibility: hidden;
+    display: none;
+}
+form.show{
+    opacity: 1;
+    visibility: visible;
+    display: block;
+}
